@@ -2,6 +2,7 @@
 
 Utilizando el template
 https://themeselection.com/item/sneat-free-bootstrap-html-admin-template/
+Clonar y generar branch para cada proyecto /desarrollador
 
 1. Construir un api rest para autenticacion metodos login,crear usuario,listar usuarios (50+)
 2. Construir un api rest para proyectos metodos crear proyecto,listar proyecto, actualizar proyecto (50+)
