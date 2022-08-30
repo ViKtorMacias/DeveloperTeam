@@ -3,6 +3,7 @@
 Utilizando el template
 https://themeselection.com/item/sneat-free-bootstrap-html-admin-template/
 Clonar y generar branch para cada proyecto /desarrollador
+Paquetes: Nlog 5, Nlog.Web.AspNetCore 5, Swashbuckle.AspNetCore 6 (swagger, tokens JWT) 
 
 1. Construir un api rest para autenticacion metodos login,crear usuario,listar usuarios (50+)
 2. Construir un api rest para proyectos metodos crear proyecto,listar proyecto, actualizar proyecto (50+)
@@ -17,3 +18,12 @@ Clonar y generar branch para cada proyecto /desarrollador
 
 # Implementación inicial primer commit (20+) extras
 
+Lecturas complementarias:
+Tutorial Api:
+https://docs.microsoft.com/es-es/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio
+Novedades NET 6
+https://docs.microsoft.com/es-es/dotnet/core/compatibility/6.0 
+Plantillas Net 6
+https://docs.microsoft.com/es-es/dotnet/core/tutorials/top-level-templates 
+Inyección de dependencias
+https://docs.microsoft.com/es-es/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-6.0 
