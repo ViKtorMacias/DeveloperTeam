@@ -19,6 +19,7 @@ Paquetes: Nlog 5, Nlog.Web.AspNetCore 5, Swashbuckle.AspNetCore 6 (swagger, toke
 # Implementación inicial primer commit (20+) extras
 
 Lecturas complementarias:
+
 Tutorial Api:
 https://docs.microsoft.com/es-es/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio
 
