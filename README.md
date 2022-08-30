@@ -11,6 +11,8 @@ https://themeselection.com/item/sneat-free-bootstrap-html-admin-template/
 6. Construir un api rest para  noticia de un proyecto crear noticia,listar noticias, actualizar noticia (50+)
 
 
-# el api construido implementada en el template (20+) 
-# implementación de patrones y buenas practicas (30+)
+# El api construido implementada en el template (20+) 
+# Implementación de patrones y buenas practicas (30+)
+
+# Implementación inicial primer commit (20+) extras
 
